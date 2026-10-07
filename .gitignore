@@ -1,0 +1,28 @@
+# Prerequisites & Compilers
+*.d
+*.o
+*.obj
+*.so
+*.a
+*.lib
+*.dll
+
+# Executables
+*.exe
+transport
+transport.exe
+
+# Simulation outputs & logs
+passenger_log.txt
+*.csv
+
+# IDE / Editor configuration
+.vscode/
+.vs/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+Thumbs.db
