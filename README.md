@@ -13,8 +13,7 @@ A C++ simulation modeling an urban public transport network using graph data str
   - `PathFinder.h` — Dijkstra's shortest path algorithm implementation
   - `Passenger.h` — Passenger demand generation and journey simulation
   - `Profiler.h` — Performance and efficiency metrics tracking
-  - `README.txt` — Coursework instructions and problem reference
-
+  
 ## Prerequisites
 - C++17 compatible compiler (e.g., `g++` via MinGW/MSYS2 on Windows, Clang, or GCC on Linux/macOS)
 
